@@ -1,0 +1,14 @@
+python
+java
+machine learning
+deep learning
+communication
+teamwork
+problem solving
+leadership
+web development
+sql
+cloud computing
+azure
+git
+github
